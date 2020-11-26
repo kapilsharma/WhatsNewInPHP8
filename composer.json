@@ -1,0 +1,19 @@
+{
+    "name": "kapsebook/php8",
+    "description": "'What's new in PHP 8' Ebook and its code, distributed during Laravel-Nagpur meetup.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kapilsharma",
+            "email": "kapil@kapilsharma.info"
+        }
+    ],
+    "support": {
+      "issues": "https://github.com/phpreboot/stopwatch/issues"
+    },
+    "autoload": {
+      "psr-4": {"Phpreboot\\Php8\\": "examples"}
+    },
+    "require": {}
+}
