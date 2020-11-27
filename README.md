@@ -1,16 +1,10 @@
 # What's new in PHP 8
 
-> Book will be published just before the meetup on November 27th, at 7:30 pm IST.
->
-> You can also join the meetup (Live streamed on YouTube) at https://bit.ly/laravel-ngp-nov-2020.
->
-> If you need early access, please contact Kapil Sharma on twitter `@kapilsharmainfo`
-
 This book is just the notes made by the author (Kapil Sharma) while going through new features of PHP 8. I'll be sharing this as ebook, just in case someone find these notes helpful.
 
 This ebook is supposed to be distributed during my next meetup where I'll be speaking on the topic `What's new in PHP 8`.
 
-For more details, either [download the ebook]() or check [introduction]() section of the book.
+For more details, either [download the ebook](https://github.com/kapilsharma/WhatsNewInPHP8/raw/master/book/whats-new-in-php8.pdf) or check [introduction](content/001-introduction.md) section of the book.
 
 ## License
 

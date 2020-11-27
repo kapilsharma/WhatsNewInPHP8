@@ -1,5 +1,7 @@
 # Introduction
 
+**Book version 1.0.0**
+
 This book is just the notes made by the author (Kapil Sharma) while going through new features of PHP 8. I'll be sharing this as an ebook, in case someone finds these notes helpful.
 
 I'll be first sharing this book during Laravel-Nagpur meetup on November 27th, 2020 at 7:30 pm IST, presented by me and live-streamed on YouTube. If you are reading the book later, you may see the recording on that meetup on Laravel-Nagpur's [YouTube channel (https://bit.ly/laravel-ngp-nov-2020)](https://bit.ly/laravel-ngp-nov-2020)
@@ -60,3 +62,11 @@ Most important were the PHP RFC, which I added as a source wherever possible. Un
 I'd like to specially mention [stitcher.io blogs](https://stitcher.io/blog/page-1), which help me to understand a few RFC in details.
 
 I used free service of [canva.com](https://www.canva.com) to design the cover page of the book and would like to thanks them for providing an online tool to create a free book cover.
+
+## Issues
+
+If you find any issue in the book, feel free to send a PR or at least [create a bug report (issue at https://github.com/kapilsharma/WhatsNewInPHP8/issues)](https://github.com/kapilsharma/WhatsNewInPHP8/issues) on GitHub. I will frequently check the issue and fix the issues in next version of the book.
+
+## Improvements, book version
+
+There is a chance of improvement in every work. I'll be doing it myself and fixing the issue raised by others. Make sure you have latest version of the book. Book version is given at the top of the introduction section of the book and on [GitHub (https://github.com/kapilsharma/whatsnewinphp8)](https://github.com/kapilsharma/whatsnewinphp8). If you find you have older version, please download the newer version of the book with bug fix and new features.
